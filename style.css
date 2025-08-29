@@ -1,0 +1,67 @@
+body,html {
+    background-image: url(img/fundo.png);
+}
+
+#menu {
+    color: black;
+    background-color: #CCC9A3;
+    width: 1100px;
+    height: 60px;
+    align-content: center;
+
+}
+
+#topo {
+    width: 300px;
+}
+
+#conteudo {
+    background-color: white;
+    width: 1100px;
+    align-content: center;
+    justify-items: center;
+}
+
+#rodape {
+    width: 1100px;
+    height: 45px;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    align-content: center;
+}
+
+.fotocontato {
+    width: 700px;
+    border: 10px;
+    border-color: #CCC9A3;
+    border-style: inset;
+    display: block;
+    margin: 0 auto
+}
+
+.fotos {
+    width: 700px;
+    border: 10px;
+    border-color: #CCC9A3;
+    border-style: inset;
+}
+
+.titulotexto {
+    color: #797761;
+    font-family: Tahoma;
+    padding-left: 10px;
+}
+
+.texto {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding-left: 10px;
+}
+
+.itmenu {
+    color: black;
+    font-family: Tahoma;
+    font-size: large;
+    padding-left: 10px;
+}
